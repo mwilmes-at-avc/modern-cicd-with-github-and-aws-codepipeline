@@ -5,7 +5,7 @@ Parameters:
   HotelName:
     Type: String
     Default: AWS App Runner Hotel
-    Description: Enter a name for the Hotel. Default is AWS App Runner Hotel.
+    Description: Enter a name for the Hotel. Default is now AWS App Runner Hotel.
   Environment:
     Type: String
     Default: dev
