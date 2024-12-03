@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: "2010-09-09"
-Description: CloudFormation template for Hotel App with DynamoDB and App Runner, without networking.
+Description: CloudFormation template for Hotel App with DynamoDB and App Runner, with out networking.
 
 Parameters:
   HotelName:
